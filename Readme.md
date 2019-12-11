@@ -12,7 +12,13 @@
 * Oracle SQL DB version 11
 * oci8 php add-on
 
-Please find the resources in order
+##### Please find the resources in order
+
+* Here is a demo video:
+
+    * [![Watch the video](./MAIN/pictures/youtube_empty.png)](https://youtu.be/yOCQggHC8T8)
+    
+* Below are the steps to set up the server and run the website
 
 * open **server_steps.txt** file in any text editor and follow the steps to create the required environment
 	* Do remember that I have not given the steps to set-up your oracle db server
